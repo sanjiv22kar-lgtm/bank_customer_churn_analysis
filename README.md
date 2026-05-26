@@ -43,22 +43,22 @@ The goal of the analysis is to identify factors influencing customer churn and g
 ## Tableau Visualizations
 
 ### Geography vs Churn
-![Geography vs Churn](geography_vs_churn.jpeg)
+![Geography vs Churn](geography_vs_churn.jpg)
 
 ### Gender vs Churn
-![Gender vs Churn](gender_vs_churn.jpeg)
+![Gender vs Churn](gender_vs_churn.jpg)
 
 ### Age Group vs Churn
-![Age Group vs Churn](age_group_vs_churn.jpeg)
+![Age Group vs Churn](age_group_vs_churn.jpg)
 
 ### Active vs Inactive Members
-![Active vs Inactive Members](active_vs_inactive_members.jpeg)
+![Active vs Inactive Members](active_vs_inactive_members.jpg)
 
 ### Credit Score Group vs Churn
-![Credit Score Group vs Churn](credit_score_group_vs_churn.jpeg)
+![Credit Score Group vs Churn](credit_score_group_vs_churn.jpg)
 
 ### Balance Category vs Churn
-![Balance Category vs Churn](balance_category_vs_churn.jpeg)
+![Balance Category vs Churn](balance_category_vs_churn.jpg)
 
 ---
 
